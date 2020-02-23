@@ -24,7 +24,7 @@
 \setmainfont[Ligatures=TeX,AutoFakeBold=0.5,AutoFakeSlant=0.25]{KhmerOSPalatino}% roman font
 \setsansfont[Ligatures=TeX,AutoFakeBold=0,AutoFakeSlant=0.25]{KhmerOSBokorPalatino}% sans serif font
 \setmonofont[Ligatures=TeX,AutoFakeBold=0.5,AutoFakeSlant=0.25]{KhmerOSConsolas}% typewriter font
-\XeTeXlinebreaklocale "km"% line break rule
+\XeTeXlinebreaklocale "khm"% line break rule
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.5pt% line break skip
 % khmer number
 \def\khmer#1{\expandafter\@khmer\csname c@#1\endcsname}
