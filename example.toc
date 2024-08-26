@@ -1,0 +1,6 @@
+\contentsline {chapter}{\numberline {១}មេរៀន}{\textsf {៣}}{chapter.1}%
+\contentsline {section}{\numberline {១}ចំណងជើង}{\textsf {៣}}{section.1.1}%
+\contentsline {section}{\numberline {២}ចំណងជើង}{\textsf {៣}}{section.1.2}%
+\contentsline {chapter}{\numberline {២}មេរៀន}{\textsf {៥}}{chapter.2}%
+\contentsline {section}{\numberline {១}ចំណងជើង}{\textsf {៥}}{section.2.1}%
+\contentsline {section}{\numberline {២}ចំណងជើង}{\textsf {៥}}{section.2.2}%
